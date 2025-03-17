@@ -23,6 +23,8 @@ android {
                 install "cachetools"
                 install 'pycryptodome'
                 install 'beautifulsoup4'
+                install 'PyExecJS'
+
             }
         }
     }
